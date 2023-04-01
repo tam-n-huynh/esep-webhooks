@@ -4,6 +4,7 @@ C:\Users\tamhu\Desktop\BS Enterprise Repo\EsepWebhook\src\EsepWebhook\bin\Releas
 C:\Users\tamhu\Desktop\BS Enterprise Repo\EsepWebhook\src\EsepWebhook\bin\Release\net6.0\linux-x64\EsepWebhook.pdb
 C:\Users\tamhu\Desktop\BS Enterprise Repo\EsepWebhook\src\EsepWebhook\bin\Release\net6.0\linux-x64\Amazon.Lambda.Core.dll
 C:\Users\tamhu\Desktop\BS Enterprise Repo\EsepWebhook\src\EsepWebhook\bin\Release\net6.0\linux-x64\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\tamhu\Desktop\BS Enterprise Repo\EsepWebhook\src\EsepWebhook\bin\Release\net6.0\linux-x64\Newtonsoft.Json.dll
 C:\Users\tamhu\Desktop\BS Enterprise Repo\EsepWebhook\src\EsepWebhook\obj\Release\net6.0\linux-x64\EsepWebhook.csproj.AssemblyReference.cache
 C:\Users\tamhu\Desktop\BS Enterprise Repo\EsepWebhook\src\EsepWebhook\obj\Release\net6.0\linux-x64\EsepWebhook.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\tamhu\Desktop\BS Enterprise Repo\EsepWebhook\src\EsepWebhook\obj\Release\net6.0\linux-x64\EsepWebhook.AssemblyInfoInputs.cache
